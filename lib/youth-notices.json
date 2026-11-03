@@ -1,5 +1,35 @@
 [
   {
+    "boardId": 6719,
+    "title": "[민간임대] 송정역 케이제이타워 최초모집공고",
+    "isPrivate": true,
+    "gubunCd": "04",
+    "supplier": "(주)케이제이",
+    "postedAt": "2026-11-03",
+    "applyDate": "2026-11-11",
+    "atchFileId": "05af111b43184ddbad610d03529fa4ec",
+    "detailUrl": "https://soco.seoul.go.kr/youth/bbs/BMSR00015/view.do?boardId=6719&menuNo=400008",
+    "gu": "강서구",
+    "pdfUrl": "https://soco.seoul.go.kr/coHouse/cmmn/file/fileDown.do?atchFileId=05af111b43184ddbad610d03529fa4ec&fileSn=1",
+    "pdfName": "민간_261103_송정역_케이제이타워_청년안심주택 최초모집공고문.pdf",
+    "fileCount": 1
+  },
+  {
+    "boardId": 6718,
+    "title": "[민간임대] 효창공원앞역 해링턴 플레이스 용산 리버뷰 최초모집공고",
+    "isPrivate": true,
+    "gubunCd": "21",
+    "supplier": "(주)이지스용산청년주택위탁관리부동산투자회사",
+    "postedAt": "2026-11-03",
+    "applyDate": "2026-11-12",
+    "atchFileId": "f0080708c59b4f6c89a0d4e53c0da80e",
+    "detailUrl": "https://soco.seoul.go.kr/youth/bbs/BMSR00015/view.do?boardId=6718&menuNo=400008",
+    "gu": "용산구",
+    "pdfUrl": "https://soco.seoul.go.kr/coHouse/cmmn/file/fileDown.do?atchFileId=f0080708c59b4f6c89a0d4e53c0da80e&fileSn=1",
+    "pdfName": "민간_261103_효창공원앞역_해링턴플레이스 용산 리버뷰_청년안심주택 최초모집공고문.pdf",
+    "fileCount": 1
+  },
+  {
     "boardId": 6717,
     "title": "[민간임대] 연신내역 루미노816 추가모집공고",
     "isPrivate": true,
