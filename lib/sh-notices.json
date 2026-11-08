@@ -1,7 +1,7 @@
 [
   {
     "seq": "311962",
-    "no": "84",
+    "no": "83",
     "supplyType": "수요자맞춤형",
     "title": "구로구 도전숙(수요자맞춤형) 잔여세대 입주자 모집 공고",
     "postedAt": "2026-10-28",
@@ -19,7 +19,7 @@
   },
   {
     "seq": "312339",
-    "no": "83",
+    "no": "82",
     "supplyType": "희망하우징",
     "title": "2026년 3차 희망하우징(공공기숙사) 잔여세대 입주자 모집공고(2026. 10. 28.)",
     "postedAt": "2026-10-28",
@@ -33,7 +33,7 @@
   },
   {
     "seq": "311965",
-    "no": "82",
+    "no": "81",
     "supplyType": "수요자맞춤형",
     "title": "강북구 신혼부부(수요자맞춤형)주택 1~4차 잔여세대 입주자 모집 공고",
     "postedAt": "2026-10-26",
@@ -48,24 +48,6 @@
     "lng": 127.01323012276755,
     "geocoded": true,
     "geoPlace": "강북구"
-  },
-  {
-    "seq": "311908",
-    "no": "81",
-    "supplyType": "수요자맞춤형",
-    "title": "노원구 도전숙(수요자맞춤형) 잔여세대 입주자 모집 공고",
-    "postedAt": "2026-10-23",
-    "announceAt": null,
-    "status": "모집중",
-    "dept": "매입주택공급부",
-    "pdfUrl": "https://www.i-sh.co.kr/main/com/file/innoFD.do?brdId=GS0401&seq=311908&fileSeq=1&fileTp=A",
-    "pdfName": "「노원구 도전숙」 입주자 모집(6세대) 공고(최종)_최적화.pdf",
-    "pdfSize": 4060777,
-    "detailUrl": "https://www.i-sh.co.kr/main/lay2/program/S1T294C295/www/brd/m_241/view.do?seq=311908",
-    "lat": 37.6547369850531,
-    "lng": 127.07385259395375,
-    "geocoded": true,
-    "geoPlace": "노원구"
   },
   {
     "seq": "311200",
