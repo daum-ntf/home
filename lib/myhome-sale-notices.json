@@ -769,6 +769,7 @@
     "regionCount": 1,
     "announceDate": "2026.11.03",
     "winnerDate": "2026.11.19",
+    "result": "남양주왕숙 A-2블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고 접수결과를 붙임과 같이 게시합니다.",
     "sourceUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061192&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027",
     "detailUrl": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1503",
     "attachmentId": "1a1a4e9ec5f93",
@@ -805,11 +806,11 @@
       "interestSn": "Off",
       "frstRegistDt": "20261104134257",
       "frstRegisterId": "ESN20221226419185",
-      "lastUpdtDt": "20261104135608",
+      "lastUpdtDt": "20261117130213",
       "lastUpdusrId": "ESN20221226419185",
       "atchFileId": "1a1a4e9ec5f93",
-      "resultCn": null,
-      "orginlFileNm": null
+      "resultCn": "남양주왕숙 A-2블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고 접수결과를 붙임과 같이 게시합니다.",
+      "orginlFileNm": "남양주왕숙A-2블록신혼희망타운(공공분양)추가입주자모집공고청약접수결과.pdf"
     }
   },
   {
@@ -827,6 +828,7 @@
     "regionCount": 1,
     "announceDate": "2026.11.03",
     "winnerDate": "2026.11.19",
+    "result": "고양지축 B-1블록 공공분양주택 잔여세대 추가입주자모집공고(2026.11.03) 청약접수 결과를 붙임과 같이 게시합니다.",
     "sourceUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061200&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027",
     "detailUrl": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1502",
     "attachmentId": "1a1a4d8cbd948",
@@ -863,11 +865,11 @@
       "interestSn": "Off",
       "frstRegistDt": "20261104133317",
       "frstRegisterId": "ESN20221226419185",
-      "lastUpdtDt": "20261104133819",
+      "lastUpdtDt": "20261117130303",
       "lastUpdusrId": "ESN20221226419185",
       "atchFileId": "1a1a4d8cbd948",
-      "resultCn": null,
-      "orginlFileNm": null
+      "resultCn": "고양지축 B-1블록 공공분양주택 잔여세대 추가입주자모집공고(2026.11.03) 청약접수 결과를 붙임과 같이 게시합니다.",
+      "orginlFileNm": "(게시)고양지축B-1블록공공분양주택잔여세대청약접수결과(261113).pdf"
     }
   },
   {
@@ -885,6 +887,7 @@
     "regionCount": 1,
     "announceDate": "2026.11.03",
     "winnerDate": "2026.11.18",
+    "result": "고양장항 A-2, A-4, A-5블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고(2026.11.03) 청약접수 결과를 붙임과 같이 게시합니다.",
     "sourceUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061199&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027",
     "detailUrl": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1501",
     "attachmentId": "1a1a4d2e2e637",
@@ -921,11 +924,11 @@
       "interestSn": "Off",
       "frstRegistDt": "20261104132115",
       "frstRegisterId": "ESN20221226419185",
-      "lastUpdtDt": "20261104133157",
+      "lastUpdtDt": "20261117130240",
       "lastUpdusrId": "ESN20221226419185",
       "atchFileId": "1a1a4d2e2e637",
-      "resultCn": null,
-      "orginlFileNm": null
+      "resultCn": "고양장항 A-2, A-4, A-5블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고(2026.11.03) 청약접수 결과를 붙임과 같이 게시합니다.",
+      "orginlFileNm": "(게시)고양장항A-2,A-4,A-5블록신혼희망탕운(공공분양)잔여세대청약접수결과(261113).pdf"
     }
   },
   {
@@ -1164,7 +1167,7 @@
     "id": "sale-1496",
     "pblancId": "1496",
     "status": "정정공고",
-    "progressStatus": "모집중",
+    "progressStatus": "모집완료",
     "title": "시흥거모 S-1블록 공공분양주택 입주자모집공고",
     "noticeTitle": "시흥거모 S-1블록 공공분양주택 입주자모집공고",
     "housingType": "공공분양",
@@ -1174,6 +1177,7 @@
     "regionCount": 1,
     "announceDate": "2026.10.23",
     "winnerDate": "2026.11.26",
+    "result": "시흥거모 S-1블록 공공분양주택의 사전청약당첨자, 특별공급 접수결과 및 일반공급 전환물량을 붙임과 같이 게시합니다.\r\n\r\n금회 공급하는 주택에 특별공급과 일반공급에 중복신청은 가능하며(사전청약당첨자 및 기관추천 확정대상자 등은 불가), 이 때 특별공급 당첨자로 선정될 경우 일반공급 당첨자 선정에서 제외됩니다.",
     "sourceUrl": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061195&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027",
     "detailUrl": "https://www.myhome.go.kr/hws/portal/sch/selectLttotHouseDetailView.do?pblancId=1496",
     "attachmentId": "1a18107f55f32",
@@ -1206,15 +1210,15 @@
       "useAt": "Y",
       "brtcCodeNm": "경기도",
       "brtcCount": 1,
-      "prgrStts": "모집중",
+      "prgrStts": "모집완료",
       "interestSn": "Off",
       "frstRegistDt": "20261028144051",
       "frstRegisterId": "ESN20221226419185",
-      "lastUpdtDt": "20261028144239",
+      "lastUpdtDt": "20261117130646",
       "lastUpdusrId": "ESN20221226419185",
       "atchFileId": "1a18107f55f32",
-      "resultCn": null,
-      "orginlFileNm": null
+      "resultCn": "시흥거모 S-1블록 공공분양주택의 사전청약당첨자, 특별공급 접수결과 및 일반공급 전환물량을 붙임과 같이 게시합니다.\r\n\r\n금회 공급하는 주택에 특별공급과 일반공급에 중복신청은 가능하며(사전청약당첨자 및 기관추천 확정대상자 등은 불가), 이 때 특별공급 당첨자로 선정될 경우 일반공급 당첨자 선정에서 제외됩니다.",
+      "orginlFileNm": "시흥거모S-1블록사전청약자및특별공급청약접수결과게시.pdf"
     }
   },
   {
@@ -1280,7 +1284,7 @@
     "id": "sale-1494",
     "pblancId": "1494",
     "status": "일반공고",
-    "progressStatus": "정정공고중",
+    "progressStatus": "모집완료",
     "title": "시흥거모 S-1블록 공공분양주택 입주자모집공고",
     "noticeTitle": "시흥거모 S-1블록 공공분양주택 입주자모집공고",
     "housingType": "공공분양",
@@ -1322,7 +1326,7 @@
       "useAt": "Y",
       "brtcCodeNm": "경기도",
       "brtcCount": 1,
-      "prgrStts": "정정공고중",
+      "prgrStts": "모집완료",
       "interestSn": "Off",
       "frstRegistDt": "20261023171612",
       "frstRegisterId": "ESN20221226419185",
